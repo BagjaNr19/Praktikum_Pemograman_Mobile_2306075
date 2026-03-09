@@ -63,6 +63,42 @@ class HomePage extends StatelessWidget {
                       ),
                     ),
                   ),
+                  Card(
+                    child: Padding(
+                      padding: EdgeInsets.all(3),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text('Jhon weeks'),
+                          Text('Pernah mengomentari isu internal Manchester United dengan pernyataan keras, menyindir klub tidak berkembang, dan merasa dikhianati., ')
+                        ],
+                      ),
+                    ),
+                  ),
+                  Card(
+                    child: Padding(
+                      padding: EdgeInsets.all(3),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text('Jhon darj'),
+                          Text('Pernah mengomentari isu internal Manchester United dengan pernyataan keras, menyindir klub tidak berkembang, dan merasa dikhianati., ')
+                        ],
+                      ),
+                    ),
+                  ),
+                  Card(
+                    child: Padding(
+                      padding: EdgeInsets.all(3),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text('Jhon toll'),
+                          Text('Pernah mengomentari isu internal Manchester United dengan pernyataan keras, menyindir klub tidak berkembang, dan merasa dikhianati., ')
+                        ],
+                      ),
+                    ),
+                  ),
                 ],
               ),
             ],
